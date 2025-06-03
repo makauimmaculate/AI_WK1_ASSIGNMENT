@@ -22,10 +22,11 @@ CryptoBuddy is a beginner-friendly, rule-based chatbot built with Python that pr
 2. Open the script in any Python environment.
 3. Run the chatbot and start chatting!
 
-```bash
+How to run
+
 python index.py
 
-Ask questions like:
+## Ask questions like:
 
 “Which crypto is trending?”
 
@@ -35,6 +36,9 @@ Ask questions like:
 
 Type exit to end the chat.
 
-##
+##📺 Demo Screenshot
 
-![Project Log](chatbot.png)
+⚠️ Disclaimer
+Crypto is risky—always do your own research before investing.
+
+
