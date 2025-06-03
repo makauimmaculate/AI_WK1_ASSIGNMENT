@@ -37,6 +37,7 @@ python index.py
 Type exit to end the chat.
 
 ##📺 Demo Screenshot
+![Chatbot](Chatbot.png)
 
 ⚠️ Disclaimer
 Crypto is risky—always do your own research before investing.
