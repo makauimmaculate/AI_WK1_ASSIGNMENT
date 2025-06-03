@@ -34,3 +34,7 @@ Ask questions like:
 “What’s good for long-term growth?”
 
 Type exit to end the chat.
+
+##
+
+![Project Log](chatbot.png)
